@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "akinator": "^1.0.1",
+    "asyncio": "^0.0.2",
+    "contextlib": "^0.4.0",
+    "exceptions": "^0.1.1"
+  }
+}
